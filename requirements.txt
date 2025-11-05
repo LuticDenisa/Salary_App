@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+python-dotenv
+Flask-Migrate
+reportlab
+pikepdf
+structlog
+PyJWT
